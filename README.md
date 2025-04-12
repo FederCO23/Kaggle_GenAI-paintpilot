@@ -25,10 +25,19 @@ See: [interior-wall-samples on Kaggle](https://www.kaggle.com/datasets/YOUR_DATA
 
 [YouTube Link (Coming Soon)]
 
-## 📝 Blogpost
+## Blogpost
 
 [Medium / GitHub Pages Link (Coming Soon)]
 
+## Team
+
+This project was developed as part of the Kaggle GenAI Intensive Course Capstone (2025Q1).
+
+**Contributors:**
+- [Ben Kern](https://www.linkedin.com/in/benkernconsulting/) 
+- [Federico Bessi](https://www.linkedin.com/in/federicobessi/)
+
+Special thanks to the Kaggle and Google GenAI team for the course and inspiration! 🚀 
 ---
 
 Contributions welcome • Licensed under MIT / CC0

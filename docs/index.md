@@ -168,8 +168,18 @@ The result is a user-facing natural-language summary that’s accurate, clear, a
 
 
 ## Conclusion
+
 PaintPilot shows how a simple real-world task, estimating paint needs, can be transformed with modern GenAI capabilities. From image analysis to function-based reasoning and user-friendly summarization, this assistant is a fun and practical application of everything we learned in the GenAI Intensive Course!
 
-Thanks for reading. Built as part of the 2025Q1 Kaggle GenAI Capstone Challenge. Let’s keep building. 🚀
+Thanks for reading. Built as part of the 2025Q1 Kaggle GenAI Capstone Challenge. 
+
+Special thanks to the Kaggle and Google GenAI team for the course and inspiration. Let’s keep building! 🚀
+
+
+## Contributors
+
+- [Ben Kern](https://www.linkedin.com/in/benkernconsulting/)
+- [Federico Bessi](https://www.linkedin.com/in/federicobessi/) • [GitHub](https://github.com/FederCO23)
+
 
 

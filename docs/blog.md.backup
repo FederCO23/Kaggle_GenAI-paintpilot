@@ -124,7 +124,7 @@ You are PaintPilot, a renovation assistant...
 Explain the paint calculation, give prep advice (e.g., filling holes, taping edges), and be beginner-friendly.
 """
     ...
-
+```
 
 The result is a user-facing natural-language summary that’s accurate, clear, and actionable.
 

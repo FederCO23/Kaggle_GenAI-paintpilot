@@ -11,7 +11,7 @@ This project was developed as part of the GenAI Intensive Capstone to showcase h
 
 
 <p align="center">
-  <img src="../sup_imgs/pexels-ivan-samkov-5798974_comp1.jpg" width="400"><br>
+  <img src="pexels-ivan-samkov-5798974_comp1.jpg" width="400"><br>
   <span style="font-size: 12px; color: gray;">
     Image credit: <a href="https://www.pexels.com/@ivan-samkov/">Ivan Samkov</a> via <a href="https://www.pexels.com">Pexels</a> — Free to use
   </span>
@@ -144,6 +144,7 @@ The result is a user-facing natural-language summary that’s accurate, clear, a
 
 
 ## GenAI Capabilities Demonstrated
+
 | Capability                  | How it’s Demonstrated                                                                 |
 |----------------------------|----------------------------------------------------------------------------------------|
 | Image understanding         | Gemini 1.5 Pro processes uploaded wall images to infer context and estimate dimensions |
@@ -152,6 +153,7 @@ The result is a user-facing natural-language summary that’s accurate, clear, a
 | Agents                      | LangGraph flow manages tool-chaining and state — mimicking agent behavior             |
 | Controlled generation       | Prompt engineering guides Gemini to stick to a defined schema (strict JSON)           |
 | Gen AI Evaluation           | Gemini evaluates the assistant’s output using a structured rubric and rating system   |
+
 
 
 

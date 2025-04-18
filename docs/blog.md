@@ -11,7 +11,7 @@ This project was developed as part of the GenAI Intensive Capstone to showcase h
 
 
 <p align="center">
-  <img src="../sup_img/pexels-ivan-samkov-5798974_comp1.jpg" width="400"><br>
+  <img src="../sup_imgs/pexels-ivan-samkov-5798974_comp1.jpg" width="400"><br>
   <span style="font-size: 12px; color: gray;">
     Image credit: <a href="https://www.pexels.com/@ivan-samkov/">Ivan Samkov</a> via <a href="https://www.pexels.com">Pexels</a> — Free to use
   </span>
@@ -50,11 +50,12 @@ def scene_analysis(image_path: str) -> dict:
         ),
         contents=[prompt, image]
     )
-    return response.parsed```
-
+    return response.parsed
+```
 
 This generates a response like:
 
+```python
 {
   "description": "The image shows a living room...",
   "assumptions": ["Standard ceiling height is 8 feet", "The couch is approximately 6 feet long"],
@@ -64,6 +65,8 @@ This generates a response like:
     "area": 120
   }
 }
+
+``` 
 
 We use `@tool` to register the `scene_analysis` function as a callable tool for the AI agent. This allows Gemini to automatically analyze an uploaded image, extract visual clues and return a structured JSON with estimated wall dimensions.
 
@@ -79,6 +82,7 @@ def paint_estimator(input: SceneInfoInput) -> dict:
     paint_liters = (area_ft2 * coats) / coverage_m2_l
     paint_gallons = paint_liters / 3.78541
     ...
+```
     
 The `@tool` decorator registers `paint_estimator` as a tool that calculates the paint needed based on the estimated wall area. It uses standard assumptions like 2 coats and 10 m²/L coverage, returning the result in both liters and gallons.
 
@@ -96,6 +100,9 @@ def tool_and_material_estimator(estimation: dict) -> dict:
         "drop_cloths": 1 if area < 20 else 2,
         "ladder": area > 25
     }
+    
+```
+ 
 
 
 The `tool_and_material_estimator` tool suggests a checklist of materials based on the wall size—like rollers, brushes, tape, and ladders. Helping users prepare everything they need for painting, based on the estimated area.
@@ -117,7 +124,7 @@ You are PaintPilot, a renovation assistant...
 Explain the paint calculation, give prep advice (e.g., filling holes, taping edges), and be beginner-friendly.
 """
     ...
-
+```
 
 The result is a user-facing natural-language summary that’s accurate, clear, and actionable.
 

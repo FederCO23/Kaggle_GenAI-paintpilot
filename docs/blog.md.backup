@@ -1,4 +1,4 @@
-# **PaintPilot** -- Estimating Paint Like a Pro with GenAI
+# **PaintPilot** - Estimating Paint Like a Pro with GenAI
 ## Blogpost:
 
 ---

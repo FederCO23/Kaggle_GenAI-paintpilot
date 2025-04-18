@@ -179,7 +179,7 @@ Special thanks to the Kaggle and Google GenAI team for the course and inspiratio
 ## Contributors
 
 - [Ben Kern](https://www.linkedin.com/in/benkernconsulting/)
-- [Federico Bessi](https://www.linkedin.com/in/federicobessi/) • [GitHub](https://github.com/FederCO23)
+- [Federico Bessi](https://www.linkedin.com/in/federico-bessi/) • [GitHub](https://github.com/FederCO23)
 
 
 

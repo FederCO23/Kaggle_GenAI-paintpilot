@@ -1,4 +1,4 @@
-# **PaintPilot** — Estimating Paint Like a Pro with GenAI
+# **PaintPilot** -- Estimating Paint Like a Pro with GenAI
 ## Blogpost:
 
 ---
@@ -162,4 +162,5 @@ The result is a user-facing natural-language summary that’s accurate, clear, a
 PaintPilot shows how a simple real-world task, estimating paint needs, can be transformed with modern GenAI capabilities. From image analysis to function-based reasoning and user-friendly summarization, this assistant is a fun and practical application of everything we learned in the GenAI Intensive Course!
 
 Thanks for reading. Built as part of the 2025Q1 Kaggle GenAI Capstone Challenge. Let’s keep building. 🚀
+
 

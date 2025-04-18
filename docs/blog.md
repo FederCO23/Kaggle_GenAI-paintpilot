@@ -1,4 +1,4 @@
-# **PaintPilot** — Estimating Paint Like a Pro with GenAI
+# **PaintPilot** -- Estimating Paint Like a Pro with GenAI
 ## Blogpost:
 
 ---
@@ -11,7 +11,7 @@ This project was developed as part of the GenAI Intensive Capstone to showcase h
 
 
 <p align="center">
-  <img src="../sup-img/pexels-ivan-samkov-5798974_comp1.jpg" width="400"><br>
+  <img src="../sup_img/pexels-ivan-samkov-5798974_comp1.jpg" width="400"><br>
   <span style="font-size: 12px; color: gray;">
     Image credit: <a href="https://www.pexels.com/@ivan-samkov/">Ivan Samkov</a> via <a href="https://www.pexels.com">Pexels</a> — Free to use
   </span>

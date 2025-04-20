@@ -182,4 +182,14 @@ Special thanks to the Kaggle and Google GenAI team for the course and inspiratio
 - [Federico Bessi](https://www.linkedin.com/in/federico-bessi/) • [GitHub](https://github.com/FederCO23)
 
 
+## Citation
+
+@misc{gen-ai-intensive-course-capstone-2025q1,
+  author       = {Addison Howard and Brenda Flynn and Myles O'Neill and Nate and Polong Lin},
+  title        = {Gen AI Intensive Course Capstone 2025Q1},
+  year         = {2025},
+  howpublished = {\url{[https://kaggle.com/competitions/gen-ai-intensive-course-capstone-2025q1](https://kaggle.com/competitions/gen-ai-intensive-course-capstone-2025q1)}},
+  note         = {Kaggle}
+}
+
 

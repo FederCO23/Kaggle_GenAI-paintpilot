@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./sup_imgs/Kaggle-GenAI-5-day-course.png" width="500" />
+</p>
 
 # PaintPilot – AI-Powered Paint Estimator
 
